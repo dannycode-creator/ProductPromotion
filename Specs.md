@@ -1,15 +1,27 @@
-VRFusion 技術規格表
-規格項目	詳細說明
-顯示面板	雙 2.5 吋 Fast-LCD 顯示器
-解析度	單眼 2440 x 2440 像素（雙眼合併為 4.8K 超高畫質）
-更新率	90Hz / 120Hz 支援切換
-視野範圍 (FOV)	115 度廣角視野
-光學透鏡	特製薄型 Pancake 透鏡，大幅降低機身厚度與重量
-處理器	高通 Snapdragon XR2+ Gen 2
-記憶體與儲存	12GB LPDDR5 RAM / 256GB UFS 3.1 儲存空間
-追蹤系統	內建 6 顆紅外線追蹤攝影機，支援 6DoF 空間定位
-感測技術	支援高精度彩色透視（Mixed Reality 混合實境功能）
-音訊	內建 3D 立體環繞空間音訊揚聲器、3.5mm 耳機孔
-連接方式	Wi-Fi 6E、藍牙 5.3、USB-C 3.2 高速傳輸
-電池續航	內建 5500mAh 電池，約可連續使用 2.5 - 3 小時
-重量	約 420g（不含頭帶）
+VRFusion Technical Specifications
+
+Specifications | Detailed Description
+
+Display Panel | Dual 2.5-inch Fast-LCD displays
+
+Resolution | 2440 x 2440 pixels per eye (4.8K ultra-high resolution when combined)
+
+Refresh Rate | 90Hz / 120Hz (switching supported)
+
+Field of View (FOV) | 115-degree wide-angle view
+
+Optical Lens | Custom-designed thin pancake lens, significantly reducing body thickness and weight
+
+Processor | Qualcomm Snapdragon XR2+ Gen 2
+
+Memory & Storage | 12GB LPDDR5 RAM / 256GB UFS 3.1 storage
+
+Tracking System | Built-in 6 infrared tracking cameras, supporting 6DoF spatial positioning
+
+Sensing Technology | Supports high-precision color vision (Mixed Reality)
+
+Audio | Built-in 3D surround sound speakers, 3.5mm headphone jack
+
+Connectivity | Wi-Fi 6E, Bluetooth 5.3, USB-C 3.2 High-speed transmission
+Battery life: Built-in 5500mAh battery, providing approximately 2.5-3 hours of continuous use
+Weight: Approximately 420g (excluding headband)
